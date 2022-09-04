@@ -1,4 +1,4 @@
-#Chess game in Java
+# Chess game in Java
 
 Simple game of chess in Java using Processing graphics library.
 
